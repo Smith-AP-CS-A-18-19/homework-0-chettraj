@@ -10,6 +10,7 @@ public class Homework0 {
 	 */
 	public static void main(String[] args) {
 		Print yay
+		System.out.println("Hello, World");
 	}
 
 }
